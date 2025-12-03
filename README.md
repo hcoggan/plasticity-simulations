@@ -16,10 +16,10 @@ A repository of the code used to simulate bulk and single-cell sequencing of lun
 
 ### ANALYSIS
 
-* july_single_cell_clone_clustering: the code used to analyse single-cell simulations.
+* july_single_cell_clone_clustering.ipynb: the code used to analyse single-cell simulations.
 
-* jul_compute_sumstats: the code used to extract summary statistics from simulations involving plasticity.
+* jul_compute_sumstats.py: the code used to extract summary statistics from simulations involving plasticity.
 
-* jul_tracerx_analysis: the code used to extract summary statistics from TRACERx data.
+* jul_tracerx_analysis.ipynb: the code used to extract summary statistics from TRACERx data.
 
-* jan_classification_and_analysis: the code used to analyse bulk-tumour simulations.
+* jan_classification_and_analysis.ipynb: the code used to analyse bulk-tumour simulations.
