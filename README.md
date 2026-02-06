@@ -22,4 +22,4 @@ A repository of the code used to simulate bulk and single-cell sequencing of lun
 
 * jul_tracerx_analysis.ipynb: the code used to extract summary statistics from TRACERx data.
 
-* jan_classification_and_analysis.ipynb: the code used to analyse bulk-tumour simulations.
+* jan_classification_and_analysis.ipynb: the code used to analyse bulk-tumour simulations and produce all main and supplementary figures related to the modelling.
