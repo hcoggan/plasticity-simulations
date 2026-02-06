@@ -22,4 +22,4 @@ A repository of the code used to simulate bulk and single-cell sequencing of lun
 
 * get_summary_statistics_from_real_tumours.ipynb: the code used to extract summary statistics from TRACERx data.
 
-* analyse_simulations_and_produce_figures.ipynb: the code used to analyse bulk-tumour simulations and produce all main and supplementary figures related to the modelling.
+* analyse_simulations_and_produce_figures.ipynb: the code used to analyse bulk-tumour simulations and produce all main and supplementary figures related to the modelling. To reproduce these figures, download all files in main-tumour-inputs.zip and other-necessary-inputs.zip and add them to a single directory. You can then run the Jupyter notebook with this directory as your base filepath.
